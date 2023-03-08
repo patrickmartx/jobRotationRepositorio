@@ -1,0 +1,21 @@
+a) 1, 3, 5, 7, 9
+Próximo número será o anterior + 2
+
+b) 2, 4, 8, 16, 32, 64, 128
+Próximo número será o anterior * 2
+
+c) 0, 1, 4, 9, 16, 25, 36, 49
+Cada número nessa sequência é o quadrado do número da sua posição, começando em 0. 7² = 49
+
+d) 4, 16, 36, 64, 100
+Subtraíndo cada número informado pelo anterior, encontramos um padrão:
+64 - 36 = 28
+36 - 16 = 20
+16 - 4 = 12
+Analisando isso, vemos uma razão de 8 para cada número na sequência de uma progressão aritmética. Com isso, podemos pensar que o resultado virá da soma 64 + (28 + 8), que resulta em 100.
+
+e) 1, 1, 2, 3, 5, 8, 13
+Próximo número é a soma dos dois anteriores, formando o fibonacci
+
+f) 2,10, 12, 16, 17, 18, 19, 200
+Todos esses números tem em comum o começar com "d" em sua pronúncia.

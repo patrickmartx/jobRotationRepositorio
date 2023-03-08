@@ -1,0 +1,19 @@
+Analisando a lógica da programação, vemos no código uma estrutura de repetição que somará k 13 vezes, já que a condição de quebra do loop é k deixar de ser menor que o indice. Mas é pedido o resultado do que será impresso na soma e, para isso, podemos simular o que ela tem recebido.
+Com a fórmula SOMA = SOMA + K dentro da estrutura de repetição, SOMA também terá seu valor contantemente alterado. Simulando a forma com que o aplicativo funciona, podemos chegar a uma conclusão:
+
+SOMA = SOMA + K
+1 = 0 + 1
+3 = 1 + 2
+6 = 3 + 3
+10 = 6 + 4
+15 = 10 + 5
+21 = 15 + 6
+28 = 21 + 7
+36 = 28 + 8
+45 = 36 + 9
+55 = 45 + 10
+66 = 55 + 11
+78 = 66 + 12
+91 = 78 + 13
+
+Ao final do processamento, o valor da variável SOMA será 91.

@@ -1,0 +1,36 @@
+Quando eles se cruzarem, estarão a mesma distância de 67,49Km da cidade de Ribeirão Preto.
+
+precisamos primeiro saber quando eles se cruzam para calcular a distância.
+
+s(t) = s0 + v.t
+posição do corpo em função do tempo é a posição inicial + velocidade * tempo
+
+ponto A = Ribeirão preto
+ponto B = França
+distância entre ponto A e B é de 200km
+
+carro 110km/m indo do ponto A
+caminhão 80km/h indo do ponto B
+
+A é o ponto 0 e cresce em B
+
+Posição inicial do carro é 0 sua velocidade é 110km/h
+S0a = 0 e va = 110 km/h
+função horaria | Sa(t) = 0 + 110 * t
+
+S0b = 100 e vb = -80 km/h
+função horaria | Sb(t) = 100 + (-80) * (t)
+
+encontro ocorre em (te) posição de encontro
+Sa(te) = Sb(te)
+
+0 + 110 * te = 100 - 80 * te
+110te + 80te = 100
+190te = 100
+te = 100 / 190
+te = 0,526
+
+Sa(0,526) = 110 * 0,526 = 57,86 Km seria o encontro dos dois caso o caminhão não parasse em pedágios. Considerando os pedágios somando o total em km do encontro deles com a multiplicação desse km com o tempo que será gasto, teremos 57,85 *  0,1666 = 9,639. A soma nos dará que eles se encontraram em 67,49Km sendo -67,49 pelo ponto de vista do carro e 67,49 do ponto de vista do caminhão, considerando o ponto 0 Ribeirão Preto e o 100 a França.
+
+
+
